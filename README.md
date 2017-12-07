@@ -1,3 +1,3 @@
 # test
 # hello you guys;
-# I hope I can get study with machine study from github;
+# I hope I can get study with Machine Leaning from github;
